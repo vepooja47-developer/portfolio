@@ -30,7 +30,7 @@ const Home = () => {
           <img
             src={Profile}
             alt="Coding Illustration"
-           className="rounded-full shadow-lg w-60 h-60 md:w-64 md:h-64 object-cover object-center aspect-square"
+           className="rounded-full shadow-lg w-60 h-60 md:w-64 md:h-64 object-cover object aspect-square"
           />
         </div>
       </div>
