@@ -3,7 +3,7 @@
 import React from "react";
 import { Button } from "@/components/ui/button";
 import Profile from "../assets/puja.jpg";
-import Resume from "../assets/resume.pdf";
+import Resume from "../assets/pooja verma resume.pdf";
 const Home = () => {
   return (
     <section 
